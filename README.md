@@ -1,2 +1,2 @@
 # CSS-MINI-PROJECTS
-This Repository contains all my mini CSS projects
+This webpage is based on css animations and is inspired by Online Tutorials(Youtube).
